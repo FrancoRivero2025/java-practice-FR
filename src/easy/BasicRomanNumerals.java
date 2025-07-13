@@ -1,7 +1,5 @@
 package easy;
 
-import java.util.HashMap;
-
 /**
  * Have the function BasicRomanNumerals(str) read str which will be a string of Roman numerals.
  * The numerals being used are: I for 1, V for 5, X for 10, L for 50,
